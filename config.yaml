@@ -1,0 +1,6 @@
+title: Phantom
+baseURL: /
+params:
+  none: ''
+disableKinds:
+  - RSS
